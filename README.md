@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm PuMiao, a student at the University of the Chinese Academy of Sciences major in Artificial Intelligent.
-I am currently a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I'm also an NLP intern at Sina Weibo AI Lab Now.
+I am currently a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I'm also an NLP intern at Sina Weibo AI Lab now.
 
 Coding is probably my favorite thing. I am looking for Ph.D. opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:pu.miao@foxmail.com) 
 
