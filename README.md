@@ -6,8 +6,8 @@ I am currently a student at the State Key Laboratory of Management and Control f
 Coding is probably my favorite thing. I am looking for Ph.D. opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:pu.miao@foxmail.com) 
 
 
-<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mp5088643&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mp5088643&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
+<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enze5088&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
 
 <!--
 **mp5088643/mp5088643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
