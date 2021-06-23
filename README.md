@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm PuMiao, I will be joining the WeiBo Ai lab at Sina Group as a research engineer. I obtained my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
+I'm PuMiao, I will be joining the WeiBo Ai lab at Sina Group as a research engineer. I received my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
 
 I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. 
 
