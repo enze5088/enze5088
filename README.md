@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I'm PuMiao, a student at the University of the Chinese Academy of Sciences major in Artificial Intelligent.
-I am currently a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I'm also an NLP intern at Sina Weibo AI Lab now.
+I'm PuMiao, I will be joining the WeiBo Ai lab at Sina Group as a research engineer. I obtained my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
+
+I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. 
+
+My research interests are in recommender systems, computational advertising, and information retrieval, and broader interests include comparative learning, Multi-modal pre-training model, transfer learning, and their applications in advertising, search, and recommendation.
+
 
 Coding is probably my favorite thing. I am looking for Ph.D. opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:pu.miao@foxmail.com), or comment a message on my [Website](https://enze5088.github.io/).
 
@@ -10,7 +14,7 @@ Coding is probably my favorite thing. I am looking for Ph.D. opportunities as we
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
 
 <!--
-**mp5088643/mp5088643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**enze5088/enze5088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
