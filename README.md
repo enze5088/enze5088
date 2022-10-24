@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm PuMiao, I a research engineer in Natural language processing.   
+I'm Enze,  a research engineer in Natural language processing.   
 
 My research interests are in Natural language processing, recommender systems, computational advertising, and information retrieval, and broader interests include comparative learning, multi-modal pre-training model, transfer learning, and their applications in advertising, search, and recommendation.
 
