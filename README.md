@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://www.notion.so/winter-mountain/Pu-Miao-149839b49f9380f3a206f3c817e432cb?pvs=4
+[About Me](https://pumiao.notion.site/)
 I'm PuMiao, a NLP engineer  in WeiBo Inc., working on developing large language models. 
 
 Prior to that, I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I received my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
