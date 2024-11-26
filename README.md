@@ -1,11 +1,12 @@
 ### Hi there 👋
+https://www.notion.so/winter-mountain/Pu-Miao-149839b49f9380f3a206f3c817e432cb?pvs=4
+I'm PuMiao, a NLP engineer  in WeiBo Inc., working on developing large language models. 
 
-I'm Enze,  a research engineer in Natural language processing.   
+Prior to that, I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I received my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
 
-My research interests are in Natural language processing, recommender systems, computational advertising, and information retrieval, and broader interests include comparative learning, multi-modal pre-training model, transfer learning, and their applications in advertising, search, and recommendation.
+My research interests are in **Generative AI**. Moreover, my broader interests cover Contrastive Learning, multi-modal models, long context, pretraining and continual pretraining in large language models as well as their applications.
 
-
-Coding is probably my favorite thing. If you have anything else want to know,  please drop me an [email](mailto:pu.miao@foxmail.com), or comment a message on my [Website](https://enze5088.github.io/).
+Coding is probably my favorite thing. If you have anything else you want to know, please drop me an [email](mailto:pu.miao@foxmail.com), or comment a message on my [Website](https://enze5088.github.io/) or [homepage](https://pumiao.notion.site/).
 
 <img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enze5088&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
 
