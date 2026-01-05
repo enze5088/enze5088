@@ -1,7 +1,7 @@
 ### Hi there 👋
 [About Me](https://pumiao.notion.site/)
 
-I'm PuMiao, a NLP engineer  in WeiBo Inc., working on developing large language models. 
+I'm PuMiao, a NLP engineer in Shopee Inc., working on developing large language models. 
 
 Prior to that, I have been a student at the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences supervised by Prof. Xiaolong Zheng, focus on Natural language processing. I received my Master's Degree in June 2021 from the Artificial Intelligence Academy, the University of the Chinese Academy of Sciences.
 
