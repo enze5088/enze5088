@@ -15,9 +15,9 @@ Coding is probably my favorite thing. If you have anything else you want to know
             height: 140px;  /* 统一行高 */
             flex-wrap: nowrap; overflow-x: auto; padding: 0 10px; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" 
-       style="height: 100%; width: auto; flex-shrink: 0; object-fit: contain;"/> <!-- 高度占满行高，比例不变 -->
+       style="height: 100%; width: 140; flex-shrink: 0; object-fit: contain;"/> <!-- 高度占满行高，比例不变 -->
   <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" 
-       style="height: 100%; width: auto; flex-shrink: 0; object-fit: contain;"/>
+       style="height: 100%; width: 140; flex-shrink: 0; object-fit: contain;"/>
 </div>
 
 <!-- 第二行：后2张图（第三张+活动图）并排，行高/尺寸统一 -->
