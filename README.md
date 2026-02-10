@@ -12,17 +12,24 @@ Coding is probably my favorite thing. If you have anything else you want to know
 
 ## 📊 GitHub Statistics
 
-<!-- 第一行：三个统计卡片横向居中对齐 -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" height="140"/>
+<!-- 第一行：强制3张图在同一行，永不换行 -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;
+            flex-wrap: nowrap;  /* 核心：强制不换行 */
+            overflow-x: auto;   /* 窄屏时显示横向滚动条，避免重叠 */
+            padding: 10px 0;">  <!-- 滚动条适配 padding -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" 
+       height="140" style="flex-shrink: 0;"/>  <!-- 禁止图片被挤压 -->
+  <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" 
+       height="140" style="flex-shrink: 0;"/>  <!-- 禁止图片被挤压 -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
+       height="140" style="flex-shrink: 0;"/>  <!-- 禁止图片被挤压 -->
 </div>
 
-<!-- 第二行：活动图单独居中对齐 -->
+<!-- 第二行：活动图单独居中 -->
 <div style="text-align: center;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" style="width: 30%; max-width: 200px; />
   <a href="https://github.com/enze5088">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" style="width: 40%; max-width: 200px;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" 
+         style="width: 100%; max-width: 800px;"/>
   </a>
 </div>
 <!--
