@@ -9,10 +9,22 @@ My research interests are in **Generative AI**. Moreover, my broader interests c
 
 Coding is probably my favorite thing. If you have anything else you want to know, please drop me an [email](mailto:pu.miao@foxmail.com), or comment a message on my [Website](https://enze5088.github.io/) or [homepage](https://pumiao.notion.site/).
 
-<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enze5088&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
+## 📊 GitHub Statistics
 
+<!-- 第一行：三个统计卡片横向居中对齐 -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" height="140"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="140" />
+</div>
+
+<!-- 第二行：活动图单独居中对齐 -->
+<div style="text-align: center;">
+  <a href="https://github.com/enze5088">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" style="width: 100%; max-width: 800px;"/>
+  </a>
+</div>
 <!--
 **enze5088/enze5088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
