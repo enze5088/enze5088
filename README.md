@@ -15,22 +15,22 @@ Coding is probably my favorite thing. If you have anything else you want to know
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;
             flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" 
-       height="140" style="flex-shrink: 0;"/>
+       height="140px" />
   <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" 
-       height="140" style="flex-shrink: 0;"/>
+       height="140px"/>
 </div>
 
 <!-- 第二行：第3张图单独居中 -->
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
-       style="width: 90%; max-width: 280px; />
+       style="width: 75%; max-width: 200px; />
 </div>
 
 <!-- 第三行：第4张活动图单独居中 -->
 <div style="text-align: center;">
   <a href="https://github.com/enze5088">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" 
-         style="width: 90%; max-width: 280px;"/>
+         style="width: 75%; max-width: 200px;"/>
   </a>
 </div>
 <!--
