@@ -23,14 +23,14 @@ Coding is probably my favorite thing. If you have anything else you want to know
 <!-- 第二行：第3张图单独居中 -->
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
-       style="width: 75%; max-width: 200px; />
+       style="width: 78%; max-width: 200px; />
 </div>
 
 <!-- 第三行：第4张活动图单独居中 -->
 <div style="text-align: center;">
   <a href="https://github.com/enze5088">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" 
-         style="width: 75%; max-width: 200px;"/>
+         style="width: 78%; max-width: 200px;"/>
   </a>
 </div>
 <!--
