@@ -11,36 +11,27 @@ Coding is probably my favorite thing. If you have anything else you want to know
 
 
 ## 📊 GitHub Statistics
-<!-- 第一行：前2张图并排，行高140px（基准行高） -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;
-            height: 140px;  /* 固定行高，作为基准 */
+            height: 140px;  /* 统一行高 */
             flex-wrap: nowrap; overflow-x: auto; padding: 0 10px; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enze5088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" 
-       height="140" style="flex-shrink: 0;"/> <!-- 禁止挤压，保持140px高度 -->
+       style="height: 100%; width: auto; flex-shrink: 0; object-fit: contain;"/> <!-- 高度占满行高，比例不变 -->
   <img src="https://streak-stats.demolab.com?user=enze5088&theme=radical&hide_border=true&cache_seconds=86400" 
-       height="140" style="flex-shrink: 0;"/>
+       style="height: 100%; width: auto; flex-shrink: 0; object-fit: contain;"/>
 </div>
 
-<!-- 第二行：第3张图单独行，行高140px（和第一行一致），比例不变 -->
-<div style="display: flex; justify-content: center; align-items: center;
-            height: 140px;  /* 统一行高 */
-            margin-bottom: 20px;">
+<!-- 第二行：后2张图（第三张+活动图）并排，行高/尺寸统一 -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;
+            height: 140px;  /* 和第一行行高完全一致 */
+            flex-wrap: nowrap; overflow-x: auto; padding: 0 10px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enze5088&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" 
-       height="140" style="flex-shrink: 0;"/> <!-- 固定高度，保持比例 -->
-</div>
-
-<!-- 第三行：活动图单独行，行高140px（和第一行一致），比例不变 -->
-<div style="display: flex; justify-content: center; align-items: center;
-            height: 140px;  /* 统一行高 */
-            padding: 0 10px;">
+       style="height: 100%; width: auto; flex-shrink: 0; object-fit: contain;"/>
   <a href="https://github.com/enze5088">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=enze5088&theme=react-dark&hide_border=true" 
-         style="max-height: 100%;  /* 不超过行高140px，保证比例 */
-                width: auto;       /* 宽度自适应，保护比例 */
-                max-width: 140px;  /* 限制最大宽度，避免过宽 */
-                object-fit: contain;"/> <!-- 强制保持图片比例，不拉伸 -->
+         style="height: 100%; width: 480px; flex-shrink: 0; object-fit: contain; max-width: 140px;"/> <!-- 限制活动图最大宽度，避免占比过大 -->
   </a>
 </div>
+
 <!--
 **enze5088/enze5088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
